@@ -12,6 +12,8 @@ You will be able to:
 - Create a visualization of ROC curves and use it to assess a model 
 - Evaluate classification models using the evaluation metrics appropriate for a specific problem 
 
+# Check the index.ipynb file for my workings
+
 ## Train the model
 
 Start by repeating the previous modeling steps we have discussed. For this problem, you are given a dataset `'mushrooms.csv'`. Your first job is to train a `LogisticRegression` classifier on the dataset to determine whether the mushroom is edible (e) or poisonous (p). The first column of the dataset `class` indicates whether or not the mushroom is poisonous or edible.
